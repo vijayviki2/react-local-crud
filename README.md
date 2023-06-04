@@ -1,2 +1,2 @@
 # Crud-Project
-Reacrt crud Project based on local host with authentication
+React crud Project based on local host with authentication
